@@ -1,0 +1,6 @@
+http://maven.saas.crland.com.cn/nexus
+http://maven.saas.crland.com.cn/nexus/content
+http://maven.saas.crland.com.cn/nexus/content/groups
+http://maven.saas.crland.com.cn/nexus/content/groups/public
+http://maven.saas.crland.com.cn
+http://maven.saas.crland.com.cn/nexus/content/groups/public/io/swagger/core/v3/swagger-project/2.1.2/
